@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 h1 {
     color: blue;
     font-size: 10pt;
